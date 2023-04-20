@@ -1,1 +1,2 @@
 # Advanced-Machine-Learning
+I am a student who currently study in the Quantitative Methods of Social Sciences program of Columbia University. As a student in the program, I have acquired the knowledge of Python, basic R, statistics, data analysis using regression models and machine learning using datasets. This page provides several demonstrations of the projects that I have done of Machine Learning in the Advanced Machine Learning class.
